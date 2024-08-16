@@ -1,3 +1,4 @@
+
 # Market-Basket-Analysis
 
 **Market Basket Analysis** atau `Association Rules` adalah teknik dalam data mining yang digunakan untuk menemukan hubungan atau pola asosiatif antara item dalam dataset yang besar, terutama dalam konteks transaksi ritel. Teknik ini sering digunakan untuk memahami perilaku konsumen dengan menganalisis data transaksi untuk menemukan kombinasi item yang sering dibeli bersama. 
